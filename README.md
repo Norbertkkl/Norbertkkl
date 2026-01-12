@@ -6,7 +6,7 @@
 - Location: **Poland**
 - Occupation: **Student & Aspiring Developer**
 - Interests: **Programming, Networking, Cybersecurity, Technology Enthusiast**
-- Working for: [NZjazdownia.eu](https://zjazdownia.eu)
+- Working for: [Zjazdownia.eu](https://zjazdownia.eu)
 
 ### 🚀 Skills
 <p>
