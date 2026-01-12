@@ -42,5 +42,5 @@
 ---
 ### 📫 Contact Me
 - Email: kontakt.pan.n@gmail.com
-- GitHub: [NorbertKluczkowski](https://github.com/Norbertkkl)
+- GitHub: [Norbert_Kluczkowski](https://github.com/Norbertkkl)
 - Discord: @.pan_n
