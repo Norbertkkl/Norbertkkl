@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 
   <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -38,3 +40,7 @@
 </p>
 
 ---
+### 📫 Contact Me
+- Email: kontakt.pan.n@gmail.com
+- GitHub: [NorbertKluczkowski](https://github.com/Norbertkkl)
+- Discord: @.pan_n
