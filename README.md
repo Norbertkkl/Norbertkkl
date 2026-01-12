@@ -4,6 +4,9 @@
 - Name: **Norbert**
 - Age: **17 yo**
 - Location: **Poland**
+- Occupation: **Student & Aspiring Developer**
+- Interests: **Programming, Networking, Cybersecurity, Technology Enthusiast**
+- Working for: **Zjazdownia.eu**
 
 ### 🚀 Skills
 <p>
